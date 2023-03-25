@@ -1,0 +1,72 @@
+<Trees>
+    <Tree id="1">
+    <CommonName>Maple</CommonName>
+    <ScientificName>Acer</ScientificName>
+    <LeafType>Deciduous</LeafType>
+    <Height>10-45 meters</Height>
+    <Description>A family of trees and shrubs known for their distinctive, often palmately-lobed leaves and bright autumn colors.</Description>
+    <Uses>
+    <Use1>Maple syrup production</Use1>
+    <Use2>Furniture and flooring</Use2>
+    <Use3>Landscaping and shade</Use3>
+    <Use4>Papermaking</Use4>
+    <Use5>Medicinal properties</Use5>
+    </Uses>
+    </Tree>
+    <Tree id="2">
+    <CommonName>Oak</CommonName>
+    <ScientificName>Quercus</ScientificName>
+    <LeafType>Deciduous / Evergreen</LeafType>
+    <Height>10-30 meters</Height>
+    <Description>A large family of trees known for their hard, strong wood, distinctive acorns, and broad, lobed leaves.</Description>
+    <Uses>
+    <Use1>Furniture and flooring</Use1>
+    <Use2>Wine and whiskey barrels</Use2>
+    <Use3>Landscaping and shade</Use3>
+    <Use4>Firewood</Use4>
+    <Use5>Food source for wildlife</Use5>
+    </Uses>
+    </Tree>
+    <Tree id="3">
+    <CommonName>Pine</CommonName>
+    <ScientificName>Pinus</ScientificName>
+    <LeafType>Evergreen</LeafType>
+    <Height>10-80 meters</Height>
+    <Description>A large group of evergreen trees known for their long needles, resinous wood, and important role in timber production.</Description>
+    <Uses>
+    <Use1>Timber and pulpwood</Use1>
+    <Use2>Papermaking</Use2>
+    <Use3>Landscaping and shade</Use3>
+    <Use4>Christmas trees</Use4>
+    <Use5>Essential oils</Use5>
+    </Uses>
+    </Tree>
+    <Tree id="4">
+    <CommonName>Cherry Blossom</CommonName>
+    <ScientificName>Prunus serrulata</ScientificName>
+    <LeafType>Deciduous</LeafType>
+    <Height>4-12 meters</Height>
+    <Description>A small to medium-sized tree known for its beautiful pink or white blossoms, which appear in early spring.</Description>
+    <Uses>
+    <Use1>Ornamental purposes</Use1>
+    <Use2>Symbol of Japanese culture</Use2>
+    <Use3>Photography and tourism</Use3>
+    <Use4>Traditional medicine</Use4>
+    <Use5>Food source for birds</Use5>
+    </Uses>
+    </Tree>
+    <Tree id="5">
+    <CommonName>Redwood</CommonName>
+    <ScientificName>Sequoia sempervirens</ScientificName>
+    <LeafType>Evergreen</LeafType>
+    <Height>50-115 meters</Height>
+    <Description>A very large tree species known for their thick, fire-resistant bark and towering height, often found in coastal forests of California.</Description>
+    <Uses>
+    <Use1>Timber production</Use1>
+    <Use2>Landscaping</Use2>
+    <Use3>Carbon sequestration</Use3>
+    <Use4>Wildlife habitat</Use4>
+    <Use5>Recreation and tourism</Use5>
+    </Uses>
+    </Tree>
+    </Trees>
